@@ -101,8 +101,8 @@ body {
     left: 0px;
 }
 .get-in {
-    position: absolute;
-    top: 6px;
+    position: relative;
+    top: 3px;
     font-size: 30px;
     left: 428px;
     font-family: Satisfy;
@@ -111,12 +111,12 @@ body {
 .email,
 .Discord {
     position: relative;
-    top: 85px;
+    top: 0px;
     margin: 0px 5px 0px 0px;
     font-size: 18px;
 }
 .cpr  {
     position: relative;
-    top: 100px;
+    top: 8px;
     font-size: 10px;
 }
